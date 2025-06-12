@@ -1,0 +1,6 @@
+[submodule "ticket_api"]
+	path = ticket_api
+	url = git@github.com:fontys-lunarflow/ticket_api.git
+[submodule "manifests"]
+	path = manifests
+	url = git@github.com:fontys-lunarflow/manifests.git
